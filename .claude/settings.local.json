@@ -5,7 +5,11 @@
       "Bash(npx http-server:*)",
       "WebFetch(domain:docs.anthropic.com)",
       "Bash(git remote add:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(git push:*)",
+      "Bash(rm:*)"
     ],
     "deny": []
   }
